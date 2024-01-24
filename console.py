@@ -1,7 +1,7 @@
 from turtle import Screen
 
 
-class Console:
+class Console:  # A user console class that loads the US map
 	def __init__(self):
 		self.console = Screen()
 		self.console.title("US State Game")

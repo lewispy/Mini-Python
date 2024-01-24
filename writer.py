@@ -1,7 +1,7 @@
 from turtle import Turtle
 
 
-class Writer(Turtle):
+class Writer(Turtle):  # The class that writes player's text input on console
 	def __init__(self):
 		super().__init__()
 		self.penup()
