@@ -24,7 +24,7 @@ state_list = list(df_dict["state"].values())  # Convert state entry to list
 while ENTERING:
 	if len(filled_states) == len(state_list):
 		updater.state_status(val=2, state=None)
-		ENTERING = False  # Loop should end if all the US states are completely entered
+		ENTERING = False  # Loop should end if all the US states have been correctly entered
 	elif len(filled_states) < len(state_list):
 		user_state = console.text_prompt(NUM)
 		if user_state in state_list:
