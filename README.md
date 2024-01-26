@@ -1,6 +1,6 @@
 # US States Game: A Geographical Challenge
 
-Embark on a geographical adventure with the US States Game, a Python-based simulation designed to test your knowledge of the United States.
+Embark on a geographical adventure with the US States Game, a Python-based simulation designed to test your knowledge of states names in the United States.
 This interactive console game challenges players to correctly identify and enter the names of all 50 US states on a blank map.
 
 ## Main Features:
