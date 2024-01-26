@@ -1,3 +1,6 @@
+<p align="center"><img width=520 height=350 src="https://github.com/lewispy/US-State-Game/blob/main/game-view.png"></p>
+
+##
 # US States Game: A Geographical Challenge
 
 Embark on a geographical adventure with the US States Game, a Python-based simulation designed to test your knowledge of states names in the United States.
