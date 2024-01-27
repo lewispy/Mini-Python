@@ -24,8 +24,8 @@ This interactive console game challenges players to correctly identify and enter
   - Upon successfully guessing all 50 states, players receive a congratulatory message, signaling the completion of the game.
 
 + Missed States Report:
- - In case of incorrect entries, the game generates a report listing the missed states, including their coordinates.
- - This report is saved as a CSV file for reference.
+  - In case of incorrect entries, the game generates a report listing the missed states, including their coordinates.
+  - This report is saved as a CSV file for reference.
 
 + User-Friendly Exit:
   - Players can gracefully exit the game using the console, making the overall gaming experience seamless.
