@@ -6,7 +6,7 @@
 Embark on a geographical adventure with the US States Game, a Python-based simulation designed to test your knowledge of states names in the United States.
 This interactive console game challenges players to correctly identify and enter the names of all 50 US states on a blank map.
 
-## Main Features:
+## Main Features
 
 + Interactive Console Interface:
   - The game features an intuitive console interface that prompts players to enter the names of US states.
@@ -30,14 +30,14 @@ This interactive console game challenges players to correctly identify and enter
 + User-Friendly Exit:
   - Players can gracefully exit the game using the console, making the overall gaming experience seamless.
 
-## How to Play:
+## How to Play
 
 + Players are prompted to enter the names of US states one by one.
 + Correct guesses update the map with the state name.
 + Instant feedback guides players, preventing duplicate entries or invalid state names.
 + The game concludes when all 50 states are correctly identified.
 
-## Note:
+## Note
 
 - The game relies on a CSV file ("50_states.csv") containing the coordinates of each US state.
 - The game leverages object-oriented programming to manage console interactions, map updates, and player notifications.
